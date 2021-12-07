@@ -9,4 +9,4 @@ Pueden hacer lo que quieran...
 ### s una modificacion de mi readme 
 /2021@tercel
 
-## estos cambios son nuevos
+## estos cambios son nuevos desde github

@@ -9,7 +9,4 @@ Pueden hacer lo que quieran...
 ### s una modificacion de mi readme 
 /2021@tercel
 
-
-esto es para probar fast forward 
-
-git config pull.ff only
+## estos cambios son nuevos

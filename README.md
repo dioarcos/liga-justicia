@@ -10,3 +10,5 @@ Pueden hacer lo que quieran...
 /2021@tercel
 
 ## estos cambios son nuevos desde github
+
+## esto es lo que se recuperpo

@@ -1,3 +1,0 @@
-# historia de flash 
-Su poder consiste principalmente en la super velocidad. Varios otros efectos también se atribuyen a su capacidad para controlar la velocidad de las vibraciones moleculares, incluida su capacidad para vibrar a la velocidad para pasar a través de los objetos y viajar por el tiempo. El Flash de la quinta temporada lleva un distintivo traje rojo y dorado tratado para resistir la fricción y la resistencia al viento, tradicionalmente almacenando el traje 
-comprimido dentro de un anillo en la tercera y segunda temporada es un traje rojo clásico con líneas doradas en forma de rayo, y el de primera temporada es rojo con líneas doradas.
